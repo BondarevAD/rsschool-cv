@@ -1,6 +1,7 @@
 # Andrey Bondarev
 ********
 ## Contacts:
+![my_photo](/img/photo.jpg)
 - **Discord:** BondarevAD
 - **E-mail:** andreybondarev48@gmail.com
 - **Tel:** +375447638957
